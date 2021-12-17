@@ -1,4 +1,4 @@
-<img src="./images/M Atique Faisal Rafi (1).gif"  width="1000" height="180">
+<img src="./images/M Atique Faisal Rafi (1).gif"  width="1000" height="250">
 
 ### Nice to meet you 👋,
 
@@ -12,7 +12,7 @@ I am a full-stack web developer with solid knowledge in different technologies a
 - 📫 E-mail : **matiquefaisalrafi@gmail.com**
 - 📄 Resume : [Download Resume](https://docs.google.com/document/d/12Ycj6MxZY0LYDQn8oB0ZkVJQqp18Oovso-qvhoXt6Ws/edit?usp=sharing)
 
-<img align="right" alt="coding" width="200" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
+<img align="right" alt="coding" width="180" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 # 🚀 Languages and Tools:
 
