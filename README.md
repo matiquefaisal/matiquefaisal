@@ -11,7 +11,11 @@ and enough experience in creating design and responsive websites.
 - 📝 Portfolio : [jahidulislamzim.com](https://jahidulislamzim.com/)
 - 📄 Resume : [Download Resume](https://drive.google.com/uc?export=download&id=1UN8TuyuPvDDYAdo9vSe22unQwyaXq_ep)
 <hr>
-##Languages and Tools:
+
+
+# 🚀 Languages and Tools:
+
+
 <p align="left">
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -27,8 +31,36 @@ and enough experience in creating design and responsive websites.
  <img src="https://img.icons8.com/color/48/000000/redux.png"/>
  <img src="https://img.icons8.com/color/48/000000/sass.png"/>
  </p>
-<hr>
+ 
+ <p align="center">
+    <a href="https://github.com/matiquefaisal/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="M Atique Faisal Rafi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=matiquefaisal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+ 
 
+ 
+ 
+# 📊 My Github Stats :
+
+ <br/>
+    <a href="https://github.com/matiquefaisal/github-readme-stats"><img alt="M Atique Faisal Rafi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matiquefaisal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/matiquefaisal/github-readme-stats"><img alt="M Atique Faisal Rafi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiquefaisal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  
+  <br/>
+<br/>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=matiquefaisal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)  
+
+<br/>
+<br/>
+
+
+ 
+
+
+ 
 
 
 
@@ -38,20 +70,26 @@ and enough experience in creating design and responsive websites.
 
  
 
-###Reach Me :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/matiquefaisal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/matiquefaisalrafi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/matiquefaisalrafi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/matiquefaisal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://matiquefasialrafi.netlify.app)  
+# 👨‍👩‍👦‍👦 Connect with Me:
+<p align="left">
+<a href = "https://www.facebook.com/matiquefaisalrafi/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://www.linkedin.com/in/matiquefaisalrafi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/matiquefaisal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/matiquefaisalrafi//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://myaccount.google.com/u/2/?hl=en"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://myaccount.google.com/u/2/?hl=en"><img src="<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png"/>"/></a>
+</p>
 
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiquefaisal)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=matiquefaisal&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=matiquefaisal)  
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=matiquefaisal)  
+
+
+
+
+
 
 ![Profile views](https://gpvc.arturio.dev/matiquefaisal)  
