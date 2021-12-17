@@ -79,8 +79,8 @@ I am a full-stack web developer with solid knowledge in different technologies a
 <a href = "https://twitter.com/matiquefaisal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/matiquefaisalrafi//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://myaccount.google.com/u/2/?hl=en"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "matiquefaisalrafi@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
- <a href = "https://myaccount.google.com/u/2/?hl=en"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png"/></a>
+<a href = "https://matiquefaisalrafi@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+ <a href = "https://myaccount.google.com/u/2/?hl=en"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/45/000000/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png"/></a>
 
 
 
