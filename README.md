@@ -5,12 +5,11 @@
 
 # M Atique Faisal Rafi
 
-##### Mern-Stack Developer
-<hr>
-## About Me :
+
+# About Me :
 I am a full-stack web developer with solid knowledge in different technologies and enough experience in creating design and responsive websites.
 
-- 📝 Portfolio : [M.Atique Faisal Rafi](https://matiquefasialrafi.netlify.app/)
+- 📫 E-mail : **matiquefaisalrafi@gmail.com**
 - 📄 Resume : [Download Resume](https://docs.google.com/document/d/12Ycj6MxZY0LYDQn8oB0ZkVJQqp18Oovso-qvhoXt6Ws/edit?usp=sharing)
 
 
@@ -79,8 +78,10 @@ I am a full-stack web developer with solid knowledge in different technologies a
 <a href = "https://twitter.com/matiquefaisal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/matiquefaisalrafi//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://myaccount.google.com/u/2/?hl=en"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://matiquefaisalrafi@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href = "https://https://discord.com/matiquefaisalrafi#7279"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
  <a href = "https://myaccount.google.com/u/2/?hl=en"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/45/000000/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png"/></a>
+ <a href = "https://www.reddit.com/user/matiquefaisalrafi"><img src="https://img.icons8.com/external-justicon-flat-justicon/48/000000/external-reddit-social-media-justicon-flat-justicon.png"/></a>
+ <a href = "https://matiquefasialrafi.netlify.app"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a
 
 
 
@@ -91,7 +92,7 @@ I am a full-stack web developer with solid knowledge in different technologies a
 
 
 
-
+<br/>
 
 
 ![Profile views](https://gpvc.arturio.dev/matiquefaisal)  
