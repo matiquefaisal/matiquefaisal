@@ -10,9 +10,9 @@
 ## About Me :
 I am a full-stack web developer with solid knowledge in different technologies and enough experience in creating design and responsive websites.
 
-- 📝 Portfolio : [jahidulislamzim.com](https://jahidulislamzim.com/)
-- 📄 Resume : [Download Resume](https://drive.google.com/uc?export=download&id=1UN8TuyuPvDDYAdo9vSe22unQwyaXq_ep)
-<hr>
+- 📝 Portfolio : [M.Atique Faisal Rafi](https://matiquefasialrafi.netlify.app/)
+- 📄 Resume : [Download Resume](https://docs.google.com/document/d/12Ycj6MxZY0LYDQn8oB0ZkVJQqp18Oovso-qvhoXt6Ws/edit?usp=sharing)
+
 
 
 # 🚀 Languages and Tools:
