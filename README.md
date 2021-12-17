@@ -1,13 +1,15 @@
 <img src="./images/M Atique Faisal Rafi (1).gif"  width="1000" height="250">
-###Nice to meet you 👋,
 
-#M Atique Faisal Rafi
+### Nice to meet you 👋,
+
+
+# M Atique Faisal Rafi
+
 ##### Mern-Stack Developer
 <hr>
-##About Me :
-I am a full-stack web developer with solid knowledge in different technologies
-and enough experience in creating design and responsive websites.
-- 📫 E-mail : **jahidulislamzim845@gmail.com**
+## About Me :
+I am a full-stack web developer with solid knowledge in different technologies and enough experience in creating design and responsive websites.
+
 - 📝 Portfolio : [jahidulislamzim.com](https://jahidulislamzim.com/)
 - 📄 Resume : [Download Resume](https://drive.google.com/uc?export=download&id=1UN8TuyuPvDDYAdo9vSe22unQwyaXq_ep)
 <hr>
@@ -77,8 +79,8 @@ and enough experience in creating design and responsive websites.
 <a href = "https://twitter.com/matiquefaisal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/matiquefaisalrafi//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://myaccount.google.com/u/2/?hl=en"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://myaccount.google.com/u/2/?hl=en"><img src="<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png"/>"/></a>
-</p>
+<a href = "matiquefaisalrafi@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+ <a href = "https://myaccount.google.com/u/2/?hl=en"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png"/></a>
 
 
 
