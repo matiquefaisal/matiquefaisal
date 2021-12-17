@@ -12,7 +12,7 @@ I am a full-stack web developer with solid knowledge in different technologies a
 - 📫 E-mail : **matiquefaisalrafi@gmail.com**
 - 📄 Resume : [Download Resume](https://docs.google.com/document/d/12Ycj6MxZY0LYDQn8oB0ZkVJQqp18Oovso-qvhoXt6Ws/edit?usp=sharing)
 
-
+<img align="right" alt="coding" width="250" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 # 🚀 Languages and Tools:
 
@@ -78,6 +78,7 @@ I am a full-stack web developer with solid knowledge in different technologies a
 <a href = "https://twitter.com/matiquefaisal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/matiquefaisalrafi//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://myaccount.google.com/u/2/?hl=en"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+ <a href = "https://www.pinterest.com/matiquefaisal/"><img src="https://img.icons8.com/color/48/000000/pinterest--v1.png"/></a>
 <a href = "https://https://discord.com/matiquefaisalrafi#7279"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
  <a href = "https://myaccount.google.com/u/2/?hl=en"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/45/000000/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-shadow-tal-revivo.png"/></a>
  <a href = "https://www.reddit.com/user/matiquefaisalrafi"><img src="https://img.icons8.com/external-justicon-flat-justicon/48/000000/external-reddit-social-media-justicon-flat-justicon.png"/></a>
