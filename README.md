@@ -12,7 +12,7 @@ I am a full-stack web developer with solid knowledge in different technologies a
 - 📫 E-mail : **matiquefaisalrafi@gmail.com**
 - 📄 Resume : [Download Resume](https://docs.google.com/document/d/12Ycj6MxZY0LYDQn8oB0ZkVJQqp18Oovso-qvhoXt6Ws/edit?usp=sharing)
 
-<img align="right" alt="coding" width="250" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
+<img align="right" alt="coding" width="200" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 # 🚀 Languages and Tools:
 
