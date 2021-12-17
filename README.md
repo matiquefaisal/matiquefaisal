@@ -1,16 +1,18 @@
 <img src="./images/M Atique Faisal Rafi (1).gif"  width="1000" height="250">
-### Nice to meet you 👋,
-# M Atique Faisal Rafi
+###Nice to meet you 👋,
+
+#M Atique Faisal Rafi
 ##### Mern-Stack Developer
 <hr>
 ##About Me :
 I am a full-stack web developer with solid knowledge in different technologies
 and enough experience in creating design and responsive websites.
-<img src="./images/email.png" width="20" height="20">
-<img src="./images/resume.png" width="20" height="20">
-<img src="./images/images.png" width="20" height="20">
+- 📫 E-mail : **jahidulislamzim845@gmail.com**
+- 📝 Portfolio : [jahidulislamzim.com](https://jahidulislamzim.com/)
+- 📄 Resume : [Download Resume](https://drive.google.com/uc?export=download&id=1UN8TuyuPvDDYAdo9vSe22unQwyaXq_ep)
 <hr>
 ##Languages and Tools:
+<p align="left">
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -20,6 +22,11 @@ and enough experience in creating design and responsive websites.
 <img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+ <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+ <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+ <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+ <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+ </p>
 <hr>
 
 
