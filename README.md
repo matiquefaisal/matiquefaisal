@@ -6,8 +6,7 @@
 # M Atique Faisal Rafi
 
 
-# About Me :
-I am a full-stack web developer with solid knowledge in different technologies and enough experience in creating design and responsive websites
+
 
 - 📫 E-mail : **matiquefaisalrafi@gmail.com**
 - 📄 Resume : [**Download Resume**](https://docs.google.com/document/d/12Ycj6MxZY0LYDQn8oB0ZkVJQqp18Oovso-qvhoXt6Ws/edit?usp=sharing)
