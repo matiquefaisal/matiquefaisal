@@ -1,4 +1,4 @@
-<img src="./images/M Atique Faisal Rafi (1).gif"  width="1000" height="250">
+<img src="./images/M Atique Faisal Rafi (1).gif"  width="1000" height="200">
 
 ### Nice to meet you 👋,
 
