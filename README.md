@@ -1,4 +1,4 @@
-<img src="./images/M Atique Faisal Rafi (1).gif"  width="500" height="250">
+<img src="./images/M Atique Faisal Rafi (1).gif"  width="1000" height="250">
 ### Nice to meet you 👋,
 # M Atique Faisal Rafi
 ##### Mern-Stack Developer
@@ -11,10 +11,15 @@ and enough experience in creating design and responsive websites.
 <img src="./images/images.png" width="20" height="20">
 <hr>
 ##Languages and Tools:
-<img src="./images/images.png" width="40" height="40">
-<img src="./images/images.png" width="40" height="40">
-<img src="./images/images.png" width="40" height="40">
-
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/cute-clipart/50/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <hr>
 
 
