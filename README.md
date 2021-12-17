@@ -1,4 +1,4 @@
-<img src="./images/M Atique Faisal Rafi (1).gif"  width="1000" height="200">
+<img src="./images/M Atique Faisal Rafi (1).gif"  width="1000" height="180">
 
 ### Nice to meet you 👋,
 
@@ -7,7 +7,7 @@
 
 
 # About Me :
-I am a full-stack web developer with solid knowledge in different technologies and enough experience in creating design and responsive websites.
+I am a full-stack web developer with solid knowledge in different technologies and enough experience in creating design and responsive websites
 
 - 📫 E-mail : **matiquefaisalrafi@gmail.com**
 - 📄 Resume : [Download Resume](https://docs.google.com/document/d/12Ycj6MxZY0LYDQn8oB0ZkVJQqp18Oovso-qvhoXt6Ws/edit?usp=sharing)
